@@ -19,6 +19,12 @@ const officers = [
     image: '/images/jensen.jpg',
     linkedin: 'https://www.linkedin.com/in/jensen-jacob/',
   },
+  {
+    name: 'Faqeha Zahir',
+    title: 'Vice President of Finance',
+    image: '/images/faqeha.png',
+    linkedin: 'https://www.linkedin.com/in/faqeha-zahir/',
+  },
 ]
 
 export default function AboutUs() {
