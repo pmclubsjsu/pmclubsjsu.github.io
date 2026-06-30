@@ -1,6 +1,7 @@
 # pmclubsjsu.github.io
 SJSU PM Club website
 
+2026–27:
 - President: Aneesh Matcha
 - Vice President: Jensen Jacob
 - Vice President of Finance: Faqeha Zahir
