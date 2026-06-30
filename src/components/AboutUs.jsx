@@ -25,6 +25,24 @@ const officers = [
     image: '/images/faqeha.png',
     linkedin: 'https://www.linkedin.com/in/faqeha-zahir/',
   },
+  {
+    name: 'Eman Naseerkhan',
+    title: 'Vice President of Marketing',
+    image: '/images/eman.png',
+    linkedin: 'https://www.linkedin.com/in/eman-naseerkhan/',
+  },
+  {
+    name: 'Charan Bhuma',
+    title: 'Vice President of Memberships',
+    image: '/images/placeholder.png',
+    linkedin: 'https://www.linkedin.com/in/eman-naseerkhan/',
+  },
+  {
+    name: 'Shushruth Nandamuri',
+    title: 'Vice President of Operations',
+    image: '/images/shushruth.png',
+    linkedin: 'https://www.linkedin.com/in/shushruth-nandamuri/',
+  },
 ]
 
 export default function AboutUs() {
