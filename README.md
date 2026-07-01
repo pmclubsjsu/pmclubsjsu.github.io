@@ -1,5 +1,5 @@
 # pmclubsjsu.github.io
-SJSU PM Club website
+SJSU PM Club website — a single static `index.html`, no build step. GitHub Pages serves it directly from the `main` branch root.
 
 2026–27:
 - President: Aneesh Matcha
